@@ -1,6 +1,6 @@
 # Einkaufsliste
 ##Lebenslauf von Peter2
-[[bild.png]|alt=dd]
+![BILD](bild.png)
 Ich bin geboren im Dezember.
 
 Und kaufe ein.
