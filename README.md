@@ -1,6 +1,6 @@
 # Einkaufsliste
 ##Lebenslauf von Peter2
-[logo]:https://raw.githubusercontent.com/florianadelt/Einkaufsliste/testbranch/bild.png "Logo Title Text 2"
+[!Image](https://raw.githubusercontent.com/florianadelt/Einkaufsliste/testbranch/bild.png)
 Ich bin geboren im Dezember.
 
 Und kaufe ein.
